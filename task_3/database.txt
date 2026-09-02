@@ -1,0 +1,3 @@
+{"type": "Book", "title": "Dune", "status": "Checked Out"}
+{"type": "DVD", "title": "The Matrix", "status": "Available"}
+{"type": "Magazine", "title": "National Geographic", "status": "Available"}
